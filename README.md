@@ -1,16 +1,14 @@
-### Hi there 👋
+### 👋 Hi there, I amm Risell ✨
 
 <!--
-**RisellU/RisellU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+To tell you a little about myself I am a front-end developer, graphic designer and I am a chama living in Colombia.✌️ Here you can see my projects and each one of them has been a challenge but the key is to be eager to learn to realize how fascinating technology is.💡
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m learning javaScript, HTML, CSS, Node.js and SQL.
+- ⚡ I’m currently interested in learning more about Node.js and english.
+- 💬 Feel free to ask me about my projects, I like to share my knowledge.
+- 📫 How to reach me: rcum22@gmail.com or [https://www.linkedin.com/in/risellurdaneta/](url)
+- 😄 Pronouns: Sher/Her.
+- ✨ Fun fact: I like singing, techno music, horror and suspense series. 
 -->
+### 🎯 Some technologies I use:
+<img src="{https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white}" />
