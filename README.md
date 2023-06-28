@@ -1,4 +1,4 @@
-### 👋 Hi there, I amm Risell ✨
+### 👋 Hi there, I am Risell ✨
 
 To tell you a little about myself I am a front-end developer, graphic designer and I am a chama living in Colombia.✌️ Here you can see my projects and each one of them has been a challenge but the key is to be eager to learn to realize how fascinating technology is.💡
 
